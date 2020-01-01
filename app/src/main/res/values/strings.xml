@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stocks</string>
+    <string name="no_file">No File</string>
+    <string name="file_name">Product.json</string>
+    <string name="saved">saved</string>
+    <string name="not_saved">not saved</string>
+</resources>
